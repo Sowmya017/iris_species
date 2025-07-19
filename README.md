@@ -13,5 +13,6 @@
  - Scikit-learn 
  - Uvicorn 
  - Pydantic
+ 
  Dowload or Clone the project for using 
  
