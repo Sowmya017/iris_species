@@ -1,13 +1,13 @@
- #IRIS Species Classifier API 
+ IRIS Species Classifier API 
 
  This project demonstartes how to deploy an ml model using FastAPI 
 
- ##Features
+ Features
  - Ml model trianed on the Iris dataset
  - API built with FastAPI and deployed locally
  - validated input using Pydantic 
 
- #Tech Requirements
+ Tech Requirements
  - Python 
  - FastAPI
  - Scikit-learn 
